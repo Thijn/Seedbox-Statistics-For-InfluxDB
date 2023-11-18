@@ -1,3 +1,3 @@
 influxdb
 beautifulsoup4
-rtorrent-python
+rtorrent-python @ git+https://github.com/Thijn/rtorrent-python.git@master
